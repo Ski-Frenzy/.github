@@ -2,6 +2,10 @@
 
 ![Ski Frenzy](https://raw.githubusercontent.com/Ski-Frenzy/.github/refs/heads/main/ski-frenzy.png "Ski Frenzy")
 
+![Ski Frenzy](https://raw.githubusercontent.com/Ski-Frenzy/.github/refs/heads/main/ski-frenzy-2.png "Ski Frenzy")
+
+![Ski Frenzy](https://raw.githubusercontent.com/Ski-Frenzy/.github/refs/heads/main/ski-frenzy-3.png "Ski Frenzy")
+
 👉👉 Click to play: [Ski Frenzy](https://geometrydashgames.io/ski-frenzy/ "Ski Frenzy")
 
 ## Ski Frenzy: Ultimate Snow Survival Adventure
